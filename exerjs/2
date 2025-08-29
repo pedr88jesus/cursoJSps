@@ -1,1 +1,13 @@
+// lista de ingredientes do bolo ( array)
+const ingredientes = [
+" 3 ovos",
+" 2 xicaras de farinha de trigo",
+" 1 xicara de açucar",
+" 1/2 xicara de óleo",
+" 1xicara de leite",
+" 1 colher de sopa de fermento em pó",
+];
 
+// titulo 
+console.log("receitas de bolo simples");
+console.log("Igredientes;");
